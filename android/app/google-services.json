@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "534858411663",
+    "firebase_url": "https://visakeeper-cad3e.firebaseio.com",
+    "project_id": "visakeeper-cad3e",
+    "storage_bucket": "visakeeper-cad3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534858411663:android:625ce713bf2f0452",
+        "android_client_info": {
+          "package_name": "com.example.visakeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534858411663-u0fk7m8c7hcht1egkp5qfef9glajvo2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmHz4nUp85tAEuTYli5oqZDS2121PHl0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
